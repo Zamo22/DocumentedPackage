@@ -10,7 +10,7 @@ import Foundation
 /// This is yet another file
 public struct AnotherFile {
 
-    public init() {} 
+    public init() {}
 
     /// Performs a very complicated mathematical equation
     /// - Parameters:
